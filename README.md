@@ -1,6 +1,3 @@
-# Receipe Search Application 
-This application is part of my Salesforce Integration Crash Course. Checkout my tutorials on [SFDCFacts Academy's youtube channel.](https://youtube.com/sfdcfacts)
-
 
 ## Pre-requisite before deployment
 1. [Make sure you have node and npm installed](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
@@ -18,4 +15,4 @@ This application is part of my Salesforce Integration Crash Course. Checkout my 
 8. Come back to Salesforce Org, and in Application Launcher search for 'Receipe Search'
 
 
-Have Fun!! Subscribe to my [youtube channel](https://youtube.com/sfdcfacts) for more!!
+
